@@ -3,4 +3,4 @@
 - 🌱 I’m currently pursuing my B.Tech-2nd-year👨‍🎓 from Charusat University, Changa.
 - 💞️ I’m looking to contribute in open source projects.
 - 📫 How to reach me:-
-                      [https://www.linkedin.com/in/parmesh-bhatt-277971221/](Linkedin)
+                      
