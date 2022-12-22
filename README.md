@@ -12,7 +12,5 @@
 - Also, I want to contribute to open-source projects📌.
 
             - 📫 How to reach me:-
-            1. [https://www.linkedin.com/in/parmesh-bhatt-277971221/](Linkedin)
-            2. [https://twitter.com/Parmesh_119](Twiiter)
-            3. [parmeshb90@gmail.com](Mail)
+                           [https://www.linkedin.com/in/parmesh-bhatt-277971221/](Linkedin)
 
