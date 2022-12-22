@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @Parmesh119
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Parmesh119/Parmesh119 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Learning Cloud Computing☁️, DevOps, Machine Learning💻, Data Science, Programming, etc. Also, I want to contribute to open-source projects
+- 🌱 I’m currently pursuing my B.Tech-2nd-year👨‍🎓 from Charusat University, Changa.
+- 💞️ I’m looking to contribute in open source project
+- 📫 How to reach me:-
+                      [www.linkedin.com/in/parmesh-bhatt119](Linkedin)
