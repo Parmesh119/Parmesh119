@@ -10,7 +10,6 @@
                     - AI, 
                     - Data Science, Programming, etc. 
 - Also, I want to contribute to open-source projects📌.
-
-            - 📫 How to reach me:- 
+ - 📫 How to reach me:- 
                             [Linkedin](https://www.linkedin.com/in/parmesh-bhatt-277971221/)
 
