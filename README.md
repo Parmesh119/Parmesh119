@@ -11,6 +11,5 @@
                     - Data Science, Programming, etc. 
 - Also, I want to contribute to open-source projects📌.
 
-            - 📫 How to reach me:-
-                           [https://www.linkedin.com/in/parmesh-bhatt-277971221/](Linkedin)
+            - 📫 How to reach me:- [https://www.linkedin.com/in/parmesh-bhatt-277971221/](Linkedin)
 
