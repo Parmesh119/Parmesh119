@@ -18,7 +18,7 @@
    
 ##             My Profile of various CP platforms💡
 
-   #### [LeetCode](https://leetcode.com/profile/account/)
+   #### [LeetCode](https://leetcode.com/21it009/)
    #### [CodeChef](https://www.codechef.com/users/parmesh_119)
       
       
