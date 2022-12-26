@@ -10,10 +10,15 @@
    ####                        AI, 
    ####                        Data Science, 
    ####                        Programming,, etc. 
-#### ---> Also, I want to contribute to open-source projects📌.
-#### ---> 📫 How to reach me:- 
+   #### ---> Also, I want to contribute to open-source projects📌.
+   #### ---> 📫 How to reach me:- 
  
    #### [Linkedin](https://www.linkedin.com/in/parmesh-bhatt-277971221/)
    #### [Twitter](https://twitter.com/Parmesh_119)
+   
+##             My Profile of various CP platforms💡
+
+   #### [LeetCode](https://leetcode.com/profile/account/)
+   #### [CodeChef](https://www.codechef.com/users/parmesh_119)
       
       
