@@ -17,7 +17,7 @@
    #### [Twitter](https://twitter.com/Parmesh_119)
    #### [HashNode](https://hashnode.com/@Prmes119)
    #### [Medium](https://medium.com/@21it009)
-   #### [G-Mail](📧21IT009@charusat.edu.in)
+   #### (G-Mail)📧21IT009@charusat.edu.in
    
 ##             My Profile of various CP platforms💡
 
