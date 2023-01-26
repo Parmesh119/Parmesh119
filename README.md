@@ -7,8 +7,7 @@
    ####                        Cloud Computing☁️, 
    ####                        DevOps, 
    ####                        Machine Learning💻,
-   ####                        AI, 
-   ####                        Data Science, 
+   ####                        AI,  
    ####                        Programming,, etc. 
    #### ---> Also, I want to contribute to open-source projects📌.
    #### ---> 📫 How to reach me:- 
