@@ -6,8 +6,7 @@
    #### ---> I’m interested in learning:- 
    ####                        Cloud Computing☁️, 
    ####                        DevOps, 
-   ####                        Machine Learning💻,
-   ####                        AI,  
+   ####                        Machine Learning💻,  
    ####                        Programming,, etc. 
    #### ---> Also, I want to contribute to open-source projects📌.
    #### ---> 📫 How to reach me:- 
