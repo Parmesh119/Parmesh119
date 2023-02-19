@@ -1,12 +1,12 @@
 # 👋 Hi, I’m Parmesh Bhatt.
 #                About me🚀
-   #### ---> 👨‍🎓I'm currently a Junior'25 Engineer.
-   #### ---> 💻 I’m currently pursuing my B.Tech-2nd-year👨‍🎓 from [Charusat University](https://www.charusat.ac.in/), Changa.
+   #### ---> I'm currently a Junior IT'25 Engineer👨‍🎓.
+   #### ---> 💻 I’m currently pursuing my B.Tech-2nd-year🎓 from [Charusat University](https://www.charusat.ac.in/), Changa.
    #### ---> I'm currently learning DSA and various Technologies.
    #### ---> I’m interested in learning:- 
    ####                        Cloud Computing☁️, 
    ####                        DevOps, 
-   ####                        Machine Learning💻,  
+   ####                        Web Development,
    ####                        Programming,, etc. 
    #### ---> Also, I want to contribute to open-source projects📌.
    #### ---> 📫 How to reach me:- 
