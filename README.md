@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Parmesh Bhatt.
--  <img src="https://drive.google.com/file/d/1Ou0tjV_jKrh-z4vX6pMdbkg60TgXCrWJ/view?usp=share_link">
-#              About🤠
+# 👋 Hi, I’m Parmesh Bhatt.
+#              About me🚀
    #### ---> 👨‍🎓I'm currently a Junior'25 Engineer.
    #### ---> 💻 I’m currently pursuing my B.Tech-2nd-year👨‍🎓 from [Charusat University](https://www.charusat.ac.in/), Changa.
    #### ---> I'm currently learning DSA and various Technologies.
