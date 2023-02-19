@@ -3,6 +3,7 @@
 
 ## --->               About me🚀
 
+
    #### -> I'm currently a Developer Program Member [GitHub](http://github.com/Parmesh119) and Junior IT'25 Engineer👨‍🎓.
    #### -> 💻 I’m currently pursuing my B.Tech-2nd-year🎓 from [Charusat University](https://www.charusat.ac.in/), Changa.
    #### -> 🌍I am from Gujarat, India.
@@ -15,13 +16,16 @@
    #### -> Also, I want to contribute to open-source projects📌.
    #### -> I am Project Developer🧑‍💻 at The [Ved Vyas Foundation](https://github.com/gita) under Winter of Code.
    
+   
  ## ---> My Skills💻
+ 
  ####            Languages : C(Programming language), C++, JAVA, Python, HTML-CSS, JavaScript, SQL, OOPs.
  ####            Cloud : GCP, AWS(learning).
  ####            Web Development : HTML-CSS, JavaScript, Git, GitHub, Version-Control, CLI, Commnad Prompt.
  ####            DataBase : SQL.
  ####            Designing : Figma, CSS.
  ####            Others : Troubleshooting, Debugging, Technical Writing, Documents Writing, Team Leadership, TeamWork, Debate.
+ 
  
  ## ---> 📫 You can reach me: 
  
