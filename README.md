@@ -11,7 +11,7 @@
    #### ---> Also, I want to contribute to open-source projects📌.
    #### ---> 📫 You can reach me:- 
  
-   #### <a href="https://www.linkedin.com/in/nirmit-pandya-b0a441232/](https://www.linkedin.com/in/parmesh-bhatt-277971221/" target="_blank">
+   #### <a href="https://www.linkedin.com/in/parmesh-bhatt-277971221/" target="_blank">
    <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>
    #### [Twitter](https://twitter.com/Parmesh_119)
    #### [HashNode](https://hashnode.com/@Prmes119)
