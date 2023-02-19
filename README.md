@@ -16,12 +16,12 @@
    #### * I am Project Developer🧑‍💻 at The [Ved Vyas Foundation](https://github.com/gita) under Winter of Code.
    
  ## ---> My Skills💻
- ####             Languages : C(Programming language), C++, JAVA, Python, HTML-CSS, JavaScript, SQL, OOPs.
- ####             Cloud : GCP, AWS(learning).
- ####             Web Development : HTML-CSS, JavaScript, Git, GitHub, Version-Control, CLI, Commnad Prompt.
- ####             DataBase : SQL.
- ####             Designing : Figma, CSS.
- ####             Others : Troubleshooting, Debugging, Technical Writing, Documents Writing, Team Leadership, TeamWork, Debate.
+ #### *             Languages : C(Programming language), C++, JAVA, Python, HTML-CSS, JavaScript, SQL, OOPs.
+ #### *            Cloud : GCP, AWS(learning).
+ #### *           Web Development : HTML-CSS, JavaScript, Git, GitHub, Version-Control, CLI, Commnad Prompt.
+ #### *           DataBase : SQL.
+ #### *           Designing : Figma, CSS.
+ #### *           Others : Troubleshooting, Debugging, Technical Writing, Documents Writing, Team Leadership, TeamWork, Debate.
  
  ## ---> 📫 You can reach me: 
  
