@@ -13,7 +13,8 @@
  
    #### <a href="https://www.linkedin.com/in/parmesh-bhatt119/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>
    #### <a href="https://twitter.com/Parmesh_119" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
-   #### <a href="https://hashnode.com/@Prmes119" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="HashNode" /></a>
+   #### <a href="https://hashnode.com/@Prmes119" target="_blank"><img src="[https://img.shields.io/badge/-Twitter-%231DA1F2](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhashnode.com%2Fbrand-resources&psig=AOvVaw0Af6YrQElW0Nt6Qg1DhZWq&ust=1676916642357000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPCVlbiXov0CFQAAAAAdAAAAABAE)" alt="HashNode" /></a>
+   #### <a href="https://hashnode.com/@Prmes119" target="_blank"><img src="" alt="HashNode" /></a>
    #### <a href="https://medium.com/@21it009" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Mediam" /></a>
    #### [Gmail](mailto:parmeshb90@gmail.com)
    
