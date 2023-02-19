@@ -15,7 +15,7 @@
    #### <a href="https://twitter.com/Parmesh_119" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
    #### <a href="https://hashnode.com/@Prmes119" target="_blank"><img src="https://img.shields.io/badge/-hashnode-%231DA1F2" alt="HashNode" /></a>
    #### <a href="https://medium.com/@21it009" target="_blank"><img src="https://img.shields.io/badge/-mediam-%231DA1F2" alt="Mediam" /></a>
-   #### [Gmail](mailto:parmeshb90@gmail.com)
+   #### [Gmail](mailto:parmeshb90@gmail.com)<img src="https://img.shields.io/badge/-Gmail-%231DA1F2" alt="Mediam" />
    
 ##             My Profile of various CP platforms💡
 
