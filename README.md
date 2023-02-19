@@ -1,4 +1,5 @@
 # 👋 Hi, I’m Parmesh Bhatt.
+### - 🎓I am Rising junior IT Engineer in IT feild. My Dream is to become the person that have special ability to do everything in any situation and in any condition.
 #                About me🚀
    #### ---> I'm currently a Developer Program Member [GitHub](http://github.com/Parmesh119) and Junior IT'25 Engineer👨‍🎓.
    #### ---> 💻 I’m currently pursuing my B.Tech-2nd-year🎓 from [Charusat University](https://www.charusat.ac.in/), Changa.
