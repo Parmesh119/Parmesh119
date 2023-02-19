@@ -9,7 +9,7 @@
    ####                        Web Development,
    ####                        Programming,, etc. 
    #### ---> Also, I want to contribute to open-source projects📌.
-   #### ---> I am Project Developer at The [Ved Vyas Foundation](https://github.com/gita) under Winter of Code🧑‍💻.
+   #### ---> I am Project Developer🧑‍💻 at The [Ved Vyas Foundation](https://github.com/gita) under Winter of Code.
    
    #### ---> 📫 You can reach me:- 
  
@@ -21,7 +21,7 @@
    
 ##             My Profile of various CP platforms💡
 
-   #### [LeetCode](https://leetcode.com/21it009/)
-   #### [CodeChef](https://www.codechef.com/users/parmesh_119)
+   ####  <a href="https://leetcode.com/21it009/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-%231DA1F2" alt="Mediam" /></a>
+   #### <a href="https://www.codechef.com/users/parmesh_119" target="_blank"><img src="https://img.shields.io/badge/-CodeChef-%231DA1F2" alt="Mediam" /></a>
       
       
