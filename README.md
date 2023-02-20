@@ -19,7 +19,7 @@
    
  ##             My Skills💻
  
- ####            Languages : C(Programming language), C++, JAVA, Python, HTML-CSS, JavaScript, SQL, OOPs.
+ ####            Languages : <img alt="C(Programming Language)" src="https://custom-icon-badges.demolab.com/badge/C-525252.svg?logo=asm-hex&logoColor=white">, C++, JAVA, Python, HTML-CSS, JavaScript, SQL, OOPs.
  ####            Cloud : GCP, AWS(learning).
  ####            Web Development : HTML-CSS, JavaScript, Git, GitHub, Version-Control, CLI, Commnad Prompt.
  ####            DataBase : SQL.
