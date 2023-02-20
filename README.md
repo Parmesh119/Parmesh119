@@ -31,8 +31,8 @@
  
    #### <a href="https://www.linkedin.com/in/parmesh-bhatt119/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" width="32" height="32" alt="Linkedin"/></a>
    #### <a href="https://twitter.com/Parmesh_119" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" /></a> 
-   #### <a href="https://hashnode.com/@Prmes119" target="_blank"><img src="https://img.shields.io/badge/-hashnode-%231DA1F2" alt="HashNode" /></a>
-   #### <a href="https://medium.com/@21it009" target="_blank"><img src="https://img.shields.io/badge/-mediam-%231DA1F2" alt="Mediam" /></a>
+   #### <a href="https://hashnode.com/@Prmes119" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" alt="HashNode" /></a>
+   #### <a href="https://medium.com/@21it009" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Mediam" /></a>
    #### <a href="mailto:parmeshb90@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%231DA1F2" alt="Gmail" /></a>
    
 ##             My Profile of various CP platforms💡
