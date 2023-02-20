@@ -39,4 +39,4 @@
 
    ####  <a href="https://leetcode.com/21it009/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-%231DA1F2" alt="LeetCde" /></a>
    ####  <a href="https://www.codechef.com/users/parmesh_119" target="_blank"><img src="https://img.shields.io/badge/-CodeChef-%231DA1F2" alt="CodeChef" /></a>
-   ####  <a href="https://www.hackerrank.com/21IT009" target="_blank"><img src="https://img.shields.io/badge/-HackerRaank-%231DA1F2" alt="HackerRank" /></a>
+   ####  <a href="https://www.hackerrank.com/21IT009" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-%231DA1F22" alt="HackerRank" /></a>
