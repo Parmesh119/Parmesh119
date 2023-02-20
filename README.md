@@ -9,12 +9,8 @@
    #### -> 🌍I am from Gujarat, India.
    #### -> I'm currently learning DSA💡 and various Technologies📌.
    #### -> I’m interested in learning:- 
-   ####                        ***[Cloud Computing](https://custom-icon-badges.demolab.com/badge/Cloud%20Computing-525252.svg?logo=asm-hex&logoColor=White)*** 
-   ####                        ***[DevOps](https://custom-icon-badges.demolab.com/badge/DevOps-525252.svg?logo=asm-hex&logoColor=White)***, 
-   ####                        ***[Web Development](https://custom-icon-badges.demolab.com/badge/Web-Development-525252.svg?logo=asm-hex&logoColor=White)***,
-   ####                        ***[Open-Source](https://custom-icon-badges.demolab.com/badge/Open%20Source-525252.svg?logo=asm-hex&logoColor=White)***,
-   ####                        ***[Programming, etc](https://custom-icon-badges.demolab.com/badge/Programminge-525252.svg?logo=asm-hex&logoColor=White)***. 
-   #### -> Also, I want to contribute to open-source projects📌.
+   ####          <img src="https://readme-typing-svg.demolab.com/?font=Times+New+Roman&weight=1000&size=30&duration=2500&pause=2500&color=34B8FF&background=FFFFFF&vCenter=true&width=435&lines=DSA%F0%9F%92%A1;Cloud+Computing%E2%98%81%EF%B8%8F;DevOps;Open-Source+Education%F0%9F%93%96;Open-Source">
+   #### -> Also, I am contributing to the open-source projects📌.
    #### -> I am Project Developer🧑‍💻 at The ***[Ved Vyas Foundation](https://github.com/gita)*** under Winter of Code.
    
    
@@ -27,7 +23,8 @@
  ####            Designing : Figma, CSS.
  ####            Others : Troubleshooting, Debugging, Technical Writing, Documents Writing, Team Leadership, TeamWork, Debate.
  
- 
+ ##            My shields👇
+ ####          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parmesh119&theme=react">  
  ##            📫 You can reach me: 
  
    #### <a href="https://www.linkedin.com/in/parmesh-bhatt119/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" width="32" height="32" alt="Linkedin"/></a>
