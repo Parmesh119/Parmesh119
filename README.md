@@ -25,7 +25,20 @@
  
  ##            My shields👇
  ####          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parmesh119&theme=react">  
- ##            📫 You can reach me: 
+ 
+ ##             My Profile of various CP platforms💡
+
+   ####  <a href="https://leetcode.com/21it009/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-%231DA1F2" alt="LeetCde" /></a>
+   ####  <a href="https://www.codechef.com/users/parmesh_119" target="_blank"><img src="https://img.shields.io/badge/-CodeChef-%231DA1F2" alt="CodeChef" /></a>
+   ####  <a href="https://www.hackerrank.com/21IT009" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-%231DA1F22" alt="HackerRank" /></a>
+
+##             Community Profile and Open-Source Projects🚩
+  ####   <a href="https://github.com/gita" target="_blank"><img src="https://img.shields.io/badge/-Ved%20Vyas%20Foundation-%231DA1F2" alt="Vde Vyas Foundation" /></a>
+  ####   <a href="https://github.com/mrpkdeveloper/450-DSA-Questions" target="_blank"><img src="https://img.shields.io/badge/-450%20DSA%20Question-%231DA1F2" alt="DSA" /></a>
+  ####   <a href="https://github.com/tarunsamanta2k20/Data-Structure---Algorithm" target="_blank"><img src="https://img.shields.io/badge/-Data%20Structure%20Structure-%231DA1F2" alt="Data-Structure---Algorithm" /></a>
+  ####   <a href="https://github.com/Parmesh119/CodeHelp-DSA-Busted-Series" target="_blank"><img src="https://img.shields.io/badge/-CodeHelp%20DSA%20Busted%20Series-%231DA1F2" alt="Data-Structure---Algorithm" /></a>
+  
+ ##            You can reach me📫: 
  
    #### <a href="https://www.linkedin.com/in/parmesh-bhatt119/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" width="32" height="32" alt="Linkedin"/></a>
    #### <a href="https://twitter.com/Parmesh_119" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" /></a> 
@@ -33,18 +46,6 @@
    #### <a href="https://medium.com/@21it009" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Mediam" /></a>
    #### <a href="mailto:parmeshb90@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%231DA1F2" alt="Gmail" /></a>
    
-##             My Profile of various CP platforms💡
-
-   ####  <a href="https://leetcode.com/21it009/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-%231DA1F2" alt="LeetCde" /></a>
-   ####  <a href="https://www.codechef.com/users/parmesh_119" target="_blank"><img src="https://img.shields.io/badge/-CodeChef-%231DA1F2" alt="CodeChef" /></a>
-   ####  <a href="https://www.hackerrank.com/21IT009" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-%231DA1F22" alt="HackerRank" /></a>
-   
-##             Community Profile and Open-Source Projects🚩
-  ####   [Ved Vyas Foundation](https://github.com/gita)
-  ####   [450-DSA-Questions](https://github.com/mrpkdeveloper/450-DSA-Questions)
-  ####   [Data-Structure---Algorithm](https://github.com/tarunsamanta2k20/Data-Structure---Algorithm)
-  ####   [CodeHelp-DSA-Busted-Series](https://github.com/Parmesh119/CodeHelp-DSA-Busted-Series)
-  
 ##             GitHub Stat's:
 
   ####   <img  src="https://github-readme-stats.vercel.app/api?username=Parmesh119&show_icons=true&theme=tokyonight" width="48%" align="right" >
