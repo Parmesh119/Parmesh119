@@ -9,10 +9,11 @@
    #### -> 🌍I am from Gujarat, India.
    #### -> I'm currently learning DSA💡 and various Technologies📌.
    #### -> I’m interested in learning:- 
-   ####                        [Cloud Computing](https://custom-icon-badges.demolab.com/badge/Cloud%20Computing-525252.svg?logo=asm-hex&logoColor=White) 
-   ####                        [***DevOps***], 
-   ####                        [***Web Development***],
-   ####                        [***Programming, etc***]. 
+   ####                        ***[Cloud Computing](https://custom-icon-badges.demolab.com/badge/Cloud%20Computing-525252.svg?logo=asm-hex&logoColor=White)*** 
+   ####                        ***[DevOps](https://custom-icon-badges.demolab.com/badge/DevOps-525252.svg?logo=asm-hex&logoColor=White)***, 
+   ####                        ***[Web Development](https://custom-icon-badges.demolab.com/badge/Web-Development-525252.svg?logo=asm-hex&logoColor=White)***,
+   ####                        ***[Open-Source](https://custom-icon-badges.demolab.com/badge/Open%20Source-525252.svg?logo=asm-hex&logoColor=White)***
+   ####                        ***[Programming, etc](https://custom-icon-badges.demolab.com/badge/Programminge-525252.svg?logo=asm-hex&logoColor=White)***. 
    #### -> Also, I want to contribute to open-source projects📌.
    #### -> I am Project Developer🧑‍💻 at The [Ved Vyas Foundation](https://github.com/gita) under Winter of Code.
    
