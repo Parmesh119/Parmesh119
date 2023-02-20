@@ -47,4 +47,4 @@
 ##           LeetCode Stat's:
  <img src="https://leetcard.jacoblin.cool/21IT009?theme=nord&font=Ubuntu%20Mono&ext=heatmap">
  
-##           ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Parmesh119)
+##           <img src="https://visitor-badge.laobi.icu/badge?page_id=Parmesh119" height="25" width="90">
