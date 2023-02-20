@@ -4,7 +4,7 @@
 ##               About me🚀
 
 
-   #### -> I'm currently a Developer Program Member [GitHub](http://github.com/Parmesh119) and Junior IT'25 Engineer👨‍🎓.
+   #### -> I'm currently a Developer Program Member at [GitHub](http://github.com/Parmesh119) and Junior IT'25 Engineer👨‍🎓.
    #### -> 💻 I’m currently pursuing my B.Tech-2nd-year🎓 from [Charusat University](https://www.charusat.ac.in/), Changa.
    #### -> 🌍I am from Gujarat, India.
    #### -> I'm currently learning DSA💡 and various Technologies📌.
