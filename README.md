@@ -9,10 +9,10 @@
    #### -> 🌍I am from Gujarat, India.
    #### -> I'm currently learning DSA💡 and various Technologies📌.
    #### -> I’m interested in learning:- 
-   ####                        Cloud Computing☁️, 
-   ####                        DevOps, 
-   ####                        Web Development,
-   ####                        Programming,, etc. 
+   ####                        [Cloud Computing](https://custom-icon-badges.demolab.com/badge/Cloud%20Computing-525252.svg?logo=asm-hex&logoColor=White) 
+   ####                        [***DevOps***], 
+   ####                        [***Web Development***],
+   ####                        [***Programming, etc***]. 
    #### -> Also, I want to contribute to open-source projects📌.
    #### -> I am Project Developer🧑‍💻 at The [Ved Vyas Foundation](https://github.com/gita) under Winter of Code.
    
