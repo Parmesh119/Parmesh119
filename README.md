@@ -53,3 +53,6 @@
 
 ##            Graph:
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Parmesh119&theme=gotham&area=true">
+  
+##           LeetCode Stat's:
+ <img src="https://leetcard.jacoblin.cool/21IT009?theme=nord&font=Ubuntu%20Mono&ext=heatmap">
