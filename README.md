@@ -4,23 +4,23 @@
 ##               About me🚀
 
 
-   #### -> I'm currently a Developer Program Member at [GitHub](http://github.com/Parmesh119) and Junior IT'25 Engineer👨‍🎓.
-   #### -> 💻 I’m currently pursuing my B.Tech-2nd-year🎓 from [Charusat University](https://www.charusat.ac.in/), Changa.
+   #### -> I'm currently a Developer Program Member at ***[GitHub](http://github.com/Parmesh119)*** and Junior IT'25 Engineer👨‍🎓.
+   #### -> 💻 I’m currently pursuing my B.Tech-2nd-year🎓 from ***[Charusat University](https://www.charusat.ac.in/)***, Changa.
    #### -> 🌍I am from Gujarat, India.
    #### -> I'm currently learning DSA💡 and various Technologies📌.
    #### -> I’m interested in learning:- 
    ####                        ***[Cloud Computing](https://custom-icon-badges.demolab.com/badge/Cloud%20Computing-525252.svg?logo=asm-hex&logoColor=White)*** 
    ####                        ***[DevOps](https://custom-icon-badges.demolab.com/badge/DevOps-525252.svg?logo=asm-hex&logoColor=White)***, 
    ####                        ***[Web Development](https://custom-icon-badges.demolab.com/badge/Web-Development-525252.svg?logo=asm-hex&logoColor=White)***,
-   ####                        ***[Open-Source](https://custom-icon-badges.demolab.com/badge/Open%20Source-525252.svg?logo=asm-hex&logoColor=White)***
+   ####                        ***[Open-Source](https://custom-icon-badges.demolab.com/badge/Open%20Source-525252.svg?logo=asm-hex&logoColor=White)***,
    ####                        ***[Programming, etc](https://custom-icon-badges.demolab.com/badge/Programminge-525252.svg?logo=asm-hex&logoColor=White)***. 
    #### -> Also, I want to contribute to open-source projects📌.
-   #### -> I am Project Developer🧑‍💻 at The [Ved Vyas Foundation](https://github.com/gita) under Winter of Code.
+   #### -> I am Project Developer🧑‍💻 at The ***[Ved Vyas Foundation](https://github.com/gita)*** under Winter of Code.
    
    
  ##             My Skills💻
  
- ####            Languages : C(Programming Language), C++, JAVA, Python, HTML-CSS, JavaScript, SQL, OOPs.
+ ####            Languages: C(Programming Language), C++, JAVA, Python, HTML-CSS, JavaScript, SQL, OOPs.
  ####            Cloud : GCP, AWS(learning).
  ####            Web Development : HTML-CSS, JavaScript, Git, GitHub, Version-Control, CLI, Commnad Prompt.
  ####            DataBase : SQL.
