@@ -40,3 +40,9 @@
    ####  <a href="https://leetcode.com/21it009/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-%231DA1F2" alt="LeetCde" /></a>
    ####  <a href="https://www.codechef.com/users/parmesh_119" target="_blank"><img src="https://img.shields.io/badge/-CodeChef-%231DA1F2" alt="CodeChef" /></a>
    ####  <a href="https://www.hackerrank.com/21IT009" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-%231DA1F22" alt="HackerRank" /></a>
+   
+##             Community Profile and Open-Source Projects🚩
+  ####   [Ved Vyas Foundation](https://github.com/gita)
+  ####   [450-DSA-Questions](https://github.com/mrpkdeveloper/450-DSA-Questions)
+  ####   [Data-Structure---Algorithm](https://github.com/tarunsamanta2k20/Data-Structure---Algorithm)
+  ####   [CodeHelp-DSA-Busted-Series](https://github.com/Parmesh119/CodeHelp-DSA-Busted-Series)
