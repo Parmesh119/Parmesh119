@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Parmesh Bhatt.
-### - 🎓I am Rising junior IT Engineer in IT feild. My Dream is to become the person that have special ability to do everything in any situation and in any condition.
+### - 🎓I am Rising junior IT Engineer in IT feild. My Dream is to become the person who has special ability to do everything in any situation and in any condition.
 
 ##               About me🚀
 
