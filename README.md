@@ -9,7 +9,7 @@
    #### -> 🌍I am from Gujarat, India.
    #### -> I'm currently learning DSA💡 and various Technologies📌.
    #### -> I’m interested in learning:- 
-   ####          `<img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=1000&size=30&duration=2500&pause=2500&color=34B8FF&background=FFFFFF&vCenter=true&width=435&lines=DSA%F0%9F%92%A1;Cloud+Computing%E2%98%81%EF%B8%8F;DevOps;Open-Source+Education%F0%9F%93%96;Open-Source+Contribution">`
+   ####          `${<img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=1000&size=30&duration=2500&pause=2500&color=34B8FF&background=FFFFFF&vCenter=true&width=435&lines=DSA%F0%9F%92%A1;Cloud+Computing%E2%98%81%EF%B8%8F;DevOps;Open-Source+Education%F0%9F%93%96;Open-Source+Contribution">}`
    #### -> Also, I am contributing to the open-source projects📌.
    #### -> I am Project Developer🧑‍💻 at The ***[Ved Vyas Foundation](https://github.com/gita)*** under Winter of Code.
    
