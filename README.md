@@ -16,7 +16,7 @@
    
  ##             `My Skills💻`
  
- ####            `Languages` : C(Programming Language), C++, JAVA, Python, HTML-CSS, JavaScript, SQL, OOPs.
+ ####            `Languages` : C(Programming Language), C++, JAVA, Python, HTML-CSS, JavaScript, SQL, PHP, OOPs.
  ####            `Cloud` : GCP, AWS(learning).
  ####            `Web Development` : HTML-CSS, JavaScript, Git, GitHub, Version-Control, CLI, Commnad Prompt.
  ####            `DataBase` : SQL.
