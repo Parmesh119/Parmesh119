@@ -18,9 +18,9 @@
  
  ####            `Languages` : C(Programming Language), C++, JAVA, Python, HTML-CSS, JavaScript, SQL, PHP, OOPs.
  ####            `Cloud` : GCP, AWS(learning).
- ####            `Web Development` : HTML-CSS, JavaScript, Git, GitHub, Version-Control, CLI, Commnad Prompt.
- ####            `DataBase` : SQL.
- ####            `Designing` : Figma, CSS.
+ ####            `Web Development` : HTML-CSS, JavaScript, Git, GitHub, Version-Control, CLI, Commnad Prompt, API, JSON, REST APIs, Web APIs, React.js.
+ ####            `DataBase` : SQL, MySQL.
+ ####            `Designing` : Figma, CSS, SASS.
  ####            `Others` : Troubleshooting, Debugging, Technical Writing, Documents Writing, Team Leadership, TeamWork, Debate.
  
  ##            `My shields👇`
