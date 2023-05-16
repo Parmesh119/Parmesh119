@@ -39,6 +39,7 @@
    
 ##             `GitHub Stat's`
   ####   [![Parmesh119's GitHub | Stats](https://stats.quine.sh/Parmesh119/github?theme=dark)](https://quine.sh)
+  ####   [![Parmesh119's GitHub | Languages Over Time](https://stats.quine.sh/Parmesh119/languages-over-time?theme=dark)](https://quine.sh)
   ####   <img  src="https://github-readme-stats.vercel.app/api?username=Parmesh119&show_icons=true&theme=tokyonight" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Parmesh119&theme=tokyonight" width="45%" >
 
