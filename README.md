@@ -1,5 +1,5 @@
 # 💫 About Me:
-SDE Intern @Liquify-Solutions || ☁️ Cloud Captain'24 @AWS || 💻 Ex - Cloud Developer @CLDC || 🚀 Developer Program Member @GitHub || 📬 Postman Student Expert || 🌐 Ex - Lead WebDev @DeCodeCafe || 🎓 α MLSA || 🏆 Top Problem Solver @LinkedIn
+Software Developer | Cloud Captain'24 @AWS | Cloud Developer'23 CLDC-Charusat | Spring Boot | Java | Kotlin | MERN Stack | PostgreSQL
 
 
 ## 🌐 Socials:
