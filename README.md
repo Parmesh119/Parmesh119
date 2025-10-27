@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Developer | Cloud Captain'24 @AWS | Cloud Developer'23 CLDC-Charusat | Spring Boot | Java | Kotlin | MERN Stack | PostgreSQL
+Software Developer | Cloud Captain'24 @AWS | Cloud Developer'23 CLDC-Charusat | Next.js | MERN | Spring boot | Kotlin | Java | PostgreSQL | MySQL
 
 
 ## 🌐 Socials:
