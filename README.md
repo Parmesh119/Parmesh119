@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Developer | Cloud Captain'24 @AWS | Cloud Developer'23 CLDC-Charusat | Next.js | MERN | Spring boot | Kotlin | Java | PostgreSQL | MySQL
+Web App Developer Weetech Solution Pvt Ltd | Cloud Captain’24 @aws | Cloud Developer’23 CLDC-Charusat | NextJs | MERN | NestJs | Spring Boot | Java | Kotlin
 
 
 ## 🌐 Socials:
